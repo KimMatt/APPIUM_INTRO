@@ -6,4 +6,4 @@
 
 Source files for the Tuts+ tutorial: [An Introduction to Appium]
 
-**Available on Tuts+ some time after 1 May, 2015**
+**Available on Tuts+ May 27, 2015**
